@@ -21,6 +21,6 @@ public class BiayaParkir {
             hargaparkir = 15+((waktu-24)*0.5);
         }
 
-        System.out.println("Harga Parkir: $" + hargaparkir);
+        System.out.println("Total Harga Parkir: $" + hargaparkir);
     }
 }
